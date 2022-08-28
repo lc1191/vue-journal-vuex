@@ -1,4 +1,4 @@
-# 07-journal
+# Journal with vuex
 
 ## Project setup
 ```
